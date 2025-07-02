@@ -1,0 +1,36 @@
+O Que o Programa Faz
+Lê Arquivos de Texto e Word:
+
+Você pode carregar textos de arquivos .txt (texto simples) e .docx (documentos do Word).
+
+O programa foi otimizado para extrair o conteúdo desses formatos e prepará-lo para uma leitura fluida.
+
+Texto Limpo e Natural:
+
+Ele processa o texto para remover formatações indesejadas e garantir que a pontuação (vírgulas, pontos, etc.) fique anexada à palavra (ex: "casa,"), tornando a leitura mais fluida e sem interrupções.
+
+Controle Total da Velocidade:
+
+Ajuste a velocidade de leitura de 100 a 1000 Palavras Por Minuto (PPM) usando um controle deslizante.
+
+Ao iniciar, o programa começa devagar e acelera gradualmente até a velocidade que você escolheu, para você pegar o ritmo sem sustos.
+
+Navegação Inteligente:
+
+Iniciar / Pausar / Resetar: Comece, pare ou reinicie a leitura a qualquer momento.
+
+Voltar / Avançar 10 Palavras: Salte 10 palavras para trás ou para frente para revisar rapidamente ou pular um trecho.
+
+Voltar / Avançar Parágrafo: Navegue entre os parágrafos do documento com um clique, perfeito para reorganizar suas ideias.
+
+Personalização Visual:
+
+Adapte a aparência do programa ao seu gosto! Mude a cor do texto, a cor de fundo, o tamanho da fonte e até o estilo da fonte para criar um ambiente de leitura confortável para seus olhos.
+
+Salva e Carrega Seu Progresso:
+
+Nunca perca onde você parou! Clique em "Salvar Progresso" e o programa registrará exatamente a palavra em que você está.
+
+O progresso é salvo em arquivos de formato JSON, garantindo que você possa retomar a leitura de onde parou a qualquer momento, mesmo que feche o aplicativo.
+
+Suas preferências de cor e velocidade também são salvas automaticamente e carregadas sempre que você inicia o programa.
